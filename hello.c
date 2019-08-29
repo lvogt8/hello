@@ -2,7 +2,7 @@
  * Author: Landon Vogt
  * Date: 2019/11/27
  *
- * A simple hello world program in C
+ * A program that says my name and major in C
  *
  */
 #include<stdlib.h>
